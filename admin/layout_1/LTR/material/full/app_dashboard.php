@@ -1,4 +1,7 @@
-<?php include_once($_SERVER['DOCUMENT_ROOT'].DIRECTORY_SEPARATOR.'config.php') ?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'].DIRECTORY_SEPARATOR.'config.php') ;
+
+
+?>
 
 <!DOCTYPE html>
 <html lang="en">

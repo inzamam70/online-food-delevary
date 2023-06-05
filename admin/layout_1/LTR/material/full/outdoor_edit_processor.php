@@ -33,7 +33,7 @@ $out->tittle = Utility::sanitize($_POST['title']);
 $out->caption = Utility::sanitize($_POST['caption']);
 $out->src = $src;
 
-$result = $product->update($out);
+$result = $outdoor->update($out);
 if($result){
     $message = "Data is updated Successfully";
     set_session('message',$message);

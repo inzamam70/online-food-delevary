@@ -64,7 +64,7 @@ if (!Validator::empty($id)) {
 							</div>
 
 			                <div class="card-body">
-			                	<form action="product_edit_processor.php" method="post" enctype="multipart/form-data">
+			                	<form action="outdoor_edit_processor.php" method="post" enctype="multipart/form-data">
 								<input name="id" type="text" class="form-control"  value="<?=$out->id?>" />
 										<input name="uuid" type="text" class="form-control"  value="<?=$out->uuid?>" />
 									<div class="form-group">
