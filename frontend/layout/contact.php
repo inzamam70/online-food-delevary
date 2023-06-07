@@ -22,7 +22,7 @@
             <div class="row d-flex justify-content-center">
                
                 <div class="col-lg-7 px-5 pt-5 ">
-                    <h1 class="font-weight-bold py-3 d-flex justify-content-center" style="color: white;">Campus Canteen</h1>
+                    <h1 class="font-weight-bold py-3 d-flex justify-content-center" style="color: white;">Online Food Delivary</h1>
                     <h4 class="d-flex justify-content-center" style="color: white;">Contact Us</h4>
                     <form action="">
 

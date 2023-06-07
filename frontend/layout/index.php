@@ -35,7 +35,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="section-header text-center pb-5">
-            <h2> Product List</h2>
+            <h1 style="color: red;"> Product List</h1>
             <p>Lorem ipsum dolor sit amet consectetur<br> adipisicing elit. Ipsum, sit officia? </p>
 
 

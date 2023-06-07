@@ -52,8 +52,8 @@ if (isset($_POST['submit'])) {
                     <img src="../global_assets/img/login.jpg" class="" alt="" width="100%" height="100%">
                 </div>
                 <div class="col-lg-7 px-5 pt-5">
-                    <h1 class="font-weight-bold py-3 text-danger">Registration</h1>
-                    <h4>Make your account</h4>
+                    <h1 class="font-weight-bold py-3 text-danger">Online Food Delivary</h1>
+                    <h4>Registration your account</h4>
                     <?php
                     if (isset($error)) {
                         foreach ($error as $error) {
@@ -90,7 +90,7 @@ if (isset($_POST['submit'])) {
 
                         <div class="form-row">
                             <div class="col-lg-7">
-                                <input type="submit" name="submit" value="register now" class="form-btn">
+                                <input type="submit" name="submit" value="Register now" class="btn1 mt-3 mb-5">
                             </div>
                         </div>
                         <p>already have an account? <a href="login_form.php">login now</a></p>

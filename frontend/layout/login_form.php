@@ -59,7 +59,7 @@ if (isset($_POST['submit'])) {
                     <img src="../global_assets/img/login.jpg" width="100%" height="100%" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-7 px-5 pt-5">
-                    <h1 class="font-weight-bold py-3 text-danger">Campus Canteen</h1>
+                    <h1 class="font-weight-bold py-3 text-danger">Online Food Delivary</h1>
                     <h4>Sign into your account</h4>
                     <?php
                     if (isset($error)) {
@@ -81,7 +81,7 @@ if (isset($_POST['submit'])) {
                         </div>
                         <div class="form-row">
                             <div class="col-lg-7">
-                                <input type="submit" name="submit" value="login now" class="form-btn">
+                                <input type="submit" name="submit" value="Login now" class="btn1 mt-3 mb-5" >
                             </div>
                         </div>
                         <a href="#">Forgot Password</a>
